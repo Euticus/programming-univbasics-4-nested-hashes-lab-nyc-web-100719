@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-    new_programmer_hash
+    new_programmer_hash = 
 end
 
 def changing_alan
